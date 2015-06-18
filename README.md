@@ -1,4 +1,4 @@
-Drupal Vagrant Dev box for CIbox support
+Demo Drupal Vagrant Dev box for CIbox support
 ======
 
 #Installation
